@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #e55eb8;
+    background: #d6ccd3;
     transition: 1000ms;
 }
 .header 
@@ -32,6 +32,7 @@
     height: 60px;
     font-size: 20px;
     text-decoration: none ;
+    background: #d6ccd3;
 
 
 }
